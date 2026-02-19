@@ -7,7 +7,6 @@ import geocoder
 from twilio.rest import Client
 from twilio.base.exceptions import TwilioRestException
 
-# Optional beep
 try:
     import winsound
     def play_alert_sound():
