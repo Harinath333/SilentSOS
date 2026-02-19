@@ -1,4 +1,4 @@
-# SilentSOS: Real-time Emergency Hand Gesture Detectio 🚨✋
+# SilentSOS: Real-time Emergency Hand Gesture Detection 🚨✋
 
 **Developer Week 2026 Devpost Project**: Real-time emergency hand gesture detection & SMS/WhatsApp alert system using Mediapipe + Twilio 
 
