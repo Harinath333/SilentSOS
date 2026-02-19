@@ -44,4 +44,3 @@ python HelpMe.py
 ```bash
 git clone https://github.com/Harinath333/SilentSOS.git
 ```
-<img width="1095" height="1307" alt="image" src="https://github.com/user-attachments/assets/5654f2dd-1d31-403f-ab0b-72f3c917a216" />
